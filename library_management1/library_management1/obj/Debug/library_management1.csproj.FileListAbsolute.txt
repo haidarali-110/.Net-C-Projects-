@@ -1,0 +1,4 @@
+c:\users\hisun\documents\visual studio 2010\Projects\library_management1\library_management1\bin\library_management1.dll
+c:\users\hisun\documents\visual studio 2010\Projects\library_management1\library_management1\bin\library_management1.pdb
+c:\users\hisun\documents\visual studio 2010\Projects\library_management1\library_management1\obj\Debug\library_management1.dll
+c:\users\hisun\documents\visual studio 2010\Projects\library_management1\library_management1\obj\Debug\library_management1.pdb
