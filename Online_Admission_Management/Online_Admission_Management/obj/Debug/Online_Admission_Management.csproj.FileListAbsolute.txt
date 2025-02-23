@@ -1,0 +1,5 @@
+c:\users\hisun\documents\visual studio 2010\Projects\Online_Admission_Management\Online_Admission_Management\bin\Online_Admission_Management.dll
+c:\users\hisun\documents\visual studio 2010\Projects\Online_Admission_Management\Online_Admission_Management\bin\Online_Admission_Management.pdb
+c:\users\hisun\documents\visual studio 2010\Projects\Online_Admission_Management\Online_Admission_Management\obj\Debug\Online_Admission_Management.dll
+c:\users\hisun\documents\visual studio 2010\Projects\Online_Admission_Management\Online_Admission_Management\obj\Debug\Online_Admission_Management.pdb
+C:\Users\hisun\Documents\Visual Studio 2010\Projects\Online_Admission_Management\Online_Admission_Management\obj\Debug\Online_Admission_Management.csprojResolveAssemblyReference.cache
